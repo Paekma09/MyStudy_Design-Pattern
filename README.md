@@ -1,5 +1,5 @@
 # MyStudy_Design-Pattern_Strategy
-
+---
 
 ## Strategy Pattern
 
